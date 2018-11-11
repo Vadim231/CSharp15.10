@@ -1,0 +1,7 @@
+c:\users\vadim\source\repos\CSharp15.10\CSharp15.10\bin\Debug\CSharp15.10.exe.config
+c:\users\vadim\source\repos\CSharp15.10\CSharp15.10\bin\Debug\CSharp15.10.exe
+c:\users\vadim\source\repos\CSharp15.10\CSharp15.10\bin\Debug\CSharp15.10.pdb
+c:\users\vadim\source\repos\CSharp15.10\CSharp15.10\obj\Debug\CSharp15.10.csprojAssemblyReference.cache
+c:\users\vadim\source\repos\CSharp15.10\CSharp15.10\obj\Debug\CSharp15.10.csproj.CoreCompileInputs.cache
+c:\users\vadim\source\repos\CSharp15.10\CSharp15.10\obj\Debug\CSharp15.10.exe
+c:\users\vadim\source\repos\CSharp15.10\CSharp15.10\obj\Debug\CSharp15.10.pdb
